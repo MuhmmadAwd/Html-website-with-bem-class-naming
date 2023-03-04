@@ -1,4 +1,4 @@
-<h1 align="center">Jake & Elwood</h1>
+<h1 align="center">Visit Gaza</h1>
 
 <div align="center">
   challenge from  <a href="http://scrimba.com" target="_blank">scrimba.com</a>.
@@ -6,13 +6,14 @@
 
 <div align="center">
   <h3>
-    <a href="https://jake3elwood.netlify.app/">
+    <a href="https://muhmmadawd.github.io/Html-website-with-bem-class-naming/">
       Live Demo
     </a>
   </h3>
 </div>
 
-![screenshot](https://github.com/MuhmmadAwd/upload-gif/blob/main/jake3elwood.gif)
+<!-- ![screenshot](https://github.com/MuhmmadAwd/upload-gif/blob/main/jake3elwood.gif) -->
+
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
@@ -35,33 +36,30 @@ story about your project by answering: -->
 - What have you learned/improved?
 - Your wisdom? :) -->
 
-- I created this project to practice my knowledge with css grid and css flex .
-- l understand what is 1fr mean how to use in action and how to create a
-  hamburger menu .
-- This was so much fun and great to learn
+- I practice bem naming policy and tried use var for colors .
+- This was boring lol;
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [css grid]()
 - [html]()
-- [my brain 😉]()
+- [my hand 😉]()
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This challenge. was to build responsive website from 3 pages
+This challenge. was to build responsive website with html
 
 ## Acknowledgements
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [7 Practical Uses for the ::before and ::after Pseudo-Elements in CSS](https://css-tricks.com/7-practical-uses-for-the-before-and-after-pseudo-elements-in-css/)
-- [What different between grid-template-area and grid-column](https://css-tricks.com/almanac/properties/g/grid-area/)
+- [BEM 101](https://css-tricks.com/bem-101/)
+
 
 ## Contact
-
+- Email [muhmmad.awd@gmail.com]
 - linkedin [@muhmmadawd](https://www.linkedin.com/in/muhmmadawd/)
 - GitHub [@muhmmadawd](https://github.com/MuhmmadAwd)
